@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+require 'pry'
 describe 'conference_badges' do
 
   let(:name) {"Arel"}
